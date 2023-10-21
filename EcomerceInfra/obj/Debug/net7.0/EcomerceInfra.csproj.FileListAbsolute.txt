@@ -1,0 +1,17 @@
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\bin\Debug\net7.0\EcomerceInfra.deps.json
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\bin\Debug\net7.0\EcomerceInfra.runtimeconfig.json
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\bin\Debug\net7.0\EcomerceInfra.dll
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\bin\Debug\net7.0\EcomerceInfra.pdb
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\bin\Debug\net7.0\EcomerceEntidades.dll
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\bin\Debug\net7.0\EcomerceEntidades.pdb
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.csproj.AssemblyReference.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.AssemblyInfoInputs.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.AssemblyInfo.cs
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.csproj.CoreCompileInputs.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.csproj.CopyComplete
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.dll
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\refint\EcomerceInfra.dll
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.pdb
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\EcomerceInfra.genruntimeconfig.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceInfra\obj\Debug\net7.0\ref\EcomerceInfra.dll

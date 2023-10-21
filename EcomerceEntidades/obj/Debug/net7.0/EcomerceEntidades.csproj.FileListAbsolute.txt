@@ -1,0 +1,14 @@
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\bin\Debug\net7.0\EcomerceEntidades.deps.json
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\bin\Debug\net7.0\EcomerceEntidades.runtimeconfig.json
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\bin\Debug\net7.0\EcomerceEntidades.dll
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\bin\Debug\net7.0\EcomerceEntidades.pdb
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.csproj.AssemblyReference.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.AssemblyInfoInputs.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.AssemblyInfo.cs
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.csproj.CoreCompileInputs.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.dll
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\refint\EcomerceEntidades.dll
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.pdb
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\EcomerceEntidades.genruntimeconfig.cache
+C:\Users\senam\OneDrive\Área de Trabalho\Projetos\ProjetoEcomerce\EcomerceEntidades\obj\Debug\net7.0\ref\EcomerceEntidades.dll
