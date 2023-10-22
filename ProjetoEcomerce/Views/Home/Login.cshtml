@@ -5,6 +5,11 @@
     <div  class="alert alert-success esmaeceralert">@ViewBag.CreateMessage</div>
 }
 
+@if (!string.IsNullOrEmpty(ViewBag.LoginErrorMessage))
+{
+    <div class="alert alert-success esmaeceralert">@ViewBag.LoginErrorMessage</div>
+}
+
 
 
 <style>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj": {}
+    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj": {
+    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj",
+        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj",
         "projectName": "ApiEcomerce",
-        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj",
+        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\ApiEcomerce\\ApiEcomerce.csproj",
         "packagesPath": "C:\\Users\\senam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\ApiEcomerce\\obj\\",
+        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\ApiEcomerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\senam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj": {
-                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj"
+              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj": {
+                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj"
               },
-              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
-                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj"
+              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
+                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj"
               },
-              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj": {
-                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj"
+              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj": {
+                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj"
               }
             }
           }
@@ -50,6 +50,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Firebase.Auth": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.11, )"
@@ -96,14 +108,14 @@
         }
       }
     },
-    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj": {
+    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj",
+        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj",
         "projectName": "EcomerceAplicacao",
-        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj",
+        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\EcomerceAplicacao.csproj",
         "packagesPath": "C:\\Users\\senam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\obj\\",
+        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceAplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\senam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,11 +132,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
-                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj"
+              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
+                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj"
               },
-              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj": {
-                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj"
+              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj": {
+                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj"
               }
             }
           }
@@ -139,6 +151,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Firebase.Auth": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"
@@ -174,14 +198,14 @@
         }
       }
     },
-    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
+    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
         "projectName": "EcomerceEntidades",
-        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
+        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
         "packagesPath": "C:\\Users\\senam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\obj\\",
+        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\senam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,6 +234,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Firebase.Auth": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"
@@ -245,14 +281,14 @@
         }
       }
     },
-    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj": {
+    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj",
+        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj",
         "projectName": "EcomerceInfra",
-        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj",
+        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\EcomerceInfra.csproj",
         "packagesPath": "C:\\Users\\senam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceInfra\\obj\\",
+        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceInfra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\senam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -269,8 +305,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
-                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj"
+              "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
+                "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj"
               }
             }
           }
@@ -285,6 +321,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Firebase.Auth": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"

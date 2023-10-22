@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {}
+    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
+    "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
         "projectName": "EcomerceEntidades",
-        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
+        "projectPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\EcomerceEntidades.csproj",
         "packagesPath": "C:\\Users\\senam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\ProjetoEcomerceBasico[\\EcomerceEntidades\\obj\\",
+        "outputPath": "C:\\Users\\senam\\OneDrive\\Área de Trabalho\\Projetos\\ProjetoEcomerceBasico[\\EcomerceEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\senam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Firebase.Auth": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"

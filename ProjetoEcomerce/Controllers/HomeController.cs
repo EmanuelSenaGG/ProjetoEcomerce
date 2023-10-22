@@ -20,6 +20,10 @@ namespace ProjetoEcomerce.Controllers
             {
                 ViewBag.CreateMessage = TempData["CreateMessage"];
             }
+            if (TempData.ContainsKey("LoginErrorMessage"))
+            {
+                ViewBag.CreateMessage = TempData["LoginErrorMessage"];
+            }
 
             return View();
         }
